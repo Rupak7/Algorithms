@@ -1,0 +1,4 @@
+rupak7@rupak7-HP-Pavilion-Notebook:~$ python closestpair.py
+Point 1 (5, 18)
+Point 2 (6, 16)
+Minimum distance => 2.2360679775
